@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <script>
+      function readTextFile(file)
+      {
+        fetch(file)
+          .then(response => response.text())
+          .then(text => {
+            var kiesKleur = document.querySelector("#kleur");
+            index = 0;
+            var regels = text.split('\n');
+            regels.forEach((regel) =>
+              {
+                var opt = document.createElement("option");
+                opt.value = index;
+                opt.innerHTML = regel;
+                // then append it to the select element
+                kiesKleur.appendChild(opt);
+                index++;
+              })
+          })
+      }
+    </script>
+  </head>
+  <body>
+    <input type='submit' onclick="readTextFile('lijst.txt');""><br>
+    <select name='kleur' id='kleur'>
+    </select>
+  </body>
+</html>

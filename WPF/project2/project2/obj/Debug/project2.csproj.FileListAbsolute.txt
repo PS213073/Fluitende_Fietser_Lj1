@@ -1,0 +1,57 @@
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\bin\Debug\project2.exe.config
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\bin\Debug\project2.exe
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\bin\Debug\project2.pdb
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\MainWindow.g.cs
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\App.g.cs
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2_MarkupCompile.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2_MarkupCompile.lref
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\MainWindow.baml
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.g.resources
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.Properties.Resources.resources
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.GenerateResource.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.exe
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\project2.pdb
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\Window1.g.cs
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\Window1.baml
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.SuggestedBindingRedirects.cache
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\MainWindow.g.cs
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\Window1.g.cs
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\App.g.cs
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2_MarkupCompile.cache
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2_MarkupCompile.lref
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.exe
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.pdb
+D:\school backups\school-2\Project\WPF\project2\project2\bin\Debug\project2.exe.config
+D:\school backups\school-2\Project\WPF\project2\project2\bin\Debug\project2.exe
+D:\school backups\school-2\Project\WPF\project2\project2\bin\Debug\project2.pdb
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\MainWindow.baml
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\Window1.baml
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.g.resources
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.Properties.Resources.resources
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.GenerateResource.cache
+D:\school backups\school-2\Project\WPF\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\Window2.g.cs
+C:\Users\julian\OneDrive\Documenten\school-2\Project\WPF\project2\project2\obj\Debug\Window2.baml
+C:\wamp64\www\Project 2\WPF\project2\project2\bin\Debug\project2.exe.config
+C:\wamp64\www\Project 2\WPF\project2\project2\bin\Debug\project2.exe
+C:\wamp64\www\Project 2\WPF\project2\project2\bin\Debug\project2.pdb
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\MainWindow.g.cs
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\Window1.g.cs
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\Window2.g.cs
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\App.g.cs
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2_MarkupCompile.cache
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2_MarkupCompile.lref
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\MainWindow.baml
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\Window1.baml
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\Window2.baml
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.g.resources
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.Properties.Resources.resources
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.csproj.GenerateResource.cache
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.exe
+C:\wamp64\www\Project 2\WPF\project2\project2\obj\Debug\project2.pdb

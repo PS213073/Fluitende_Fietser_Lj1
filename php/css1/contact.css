@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+section{
+    padding-top: 2em;
+    padding-left: 2em;
+   
+}
+
+h1{
+    font-size: 2em;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+  
+label{
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: .5em;
+    color: black;
+}
+form input, textarea{
+    width: 90%;
+    padding: .8em;
+    margin-bottom: 1em;
+    border-radius: .3em;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    background-color: #0E68FF;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3em;
+    border: none;
+    margin-bottom: 5em;
+    border-radius: .5em;
+    padding: .8em 2em;
+    cursor: pointer;
+    
+}
+form{
+  height: 550px;
+}
+
+.container01{
+display: grid;
+grid-template-columns: auto;
+grid-template-rows: auto auto;
+margin-top: 20px;
+
+}
+
+h2{
+    color: black;
+    font-size: 2em;
+    margin: 0;
+}
+table{
+    padding: 5px;
+}
+
+table td{
+    color: black;
+    font-size: 1.2em;
+    width: 100px;
+}
+
+.container01 p{
+    color: black;
+    /* width: 90%; */
+    font-size: 1.2em;
+    margin-top: 5px;
+    text-align: left;
+    
+}
+
+iframe
+{
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+    section{        
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        
+        }
+        
+}
+

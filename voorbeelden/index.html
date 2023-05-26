@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <script>
+      function readTextFile(file)
+      {
+        fetch(file)
+          .then(response => response.text())
+          .then(text => console.log(text));
+      }
+    </script>
+  </head>
+  <body>
+    <input type='submit' onclick="readTextFile('lijst.txt');""><br>
+    <div id='output'>
+  </div>
+  </body>
+</html>

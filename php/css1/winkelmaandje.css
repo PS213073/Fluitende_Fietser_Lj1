@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+section {
+    height: 100vh;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.products-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 650px;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+svg {
+    width: 20px;
+    color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+
+.product-header {
+    width: 100%;
+    max-width: 650px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 4px solid rgb(0, 0, 0);
+    margin: 0 auto;
+}
+
+.product-title {
+    width: 60%;
+    margin-bottom: 5px;
+
+
+}
+
+.price {
+    width: 20%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    color: black;
+
+}
+
+.quantity {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.total {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    color: black;
+}
+
+.product {
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.basketTotalContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 10px 0;
+    color: black;
+}
+
+.basketTotalTitle {
+    width: 30%;
+}
+
+.basketTotal {
+    width: 10%;
+}
+
+h2 {
+    color: black;
+}
+
+span {
+    color: black;
+}
+
+.sname {
+    width: 30%;
+}
+
+.javaimg {
+    width: 25%;
+}
+
+input[type="submit"] {
+    background-color: #0E68FF;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    border: none;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    border-radius: 0.5em;
+    padding: 0.8em 2em;
+    cursor: pointer;
+    margin-left: 45%;
+
+}

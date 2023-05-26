@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+section{
+    padding-top: 2em;
+    padding-left: 2em;
+    display: grid;
+    grid-template-columns: 40% auto;
+  
+}
+
+h1{
+    font-size: 2em;
+    color: black;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+  
+label{
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: .5em;
+    color: black;
+}
+form input{
+    width: 70%;
+    padding: .8em;
+    margin-bottom: .5em;
+    border-radius: .3em;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    background-color: #0E68FF;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3em;
+    border: none;
+    border-radius: .5em;
+    padding: .8em 2em;
+    cursor: pointer;
+    
+}
+
+
+section .containerp p {
+    text-align: left;
+    margin-bottom: 10px;
+    color: black;
+    grid-column: 2;
+    grid-row: 2;
+    font-weight: bold;
+    font-size: 20px;
+}

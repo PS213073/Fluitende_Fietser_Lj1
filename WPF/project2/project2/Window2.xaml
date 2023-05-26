@@ -1,0 +1,47 @@
+﻿<Window x:Class="project2.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project2"
+        mc:Ignorable="d"
+        Title="Window2" 
+        Height="400"
+        Width="300"
+        Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="157*"/>
+            <ColumnDefinition Width="143*"/>
+        </Grid.ColumnDefinitions>
+        <Grid
+            Background="#89cff0"
+            Height="75"
+            VerticalAlignment="Top" Grid.ColumnSpan="2">
+            <Image 
+                Source="/Assets/Afbeeldingen/logo.png" 
+                HorizontalAlignment="Left"
+                Margin="25,0,0,0"/>
+            <StackPanel
+                Width="150"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+                Margin="110,0,0,0">
+                <TextBlock
+                    FontSize="24"
+                    TextAlignment="Center">
+                    De fluitende
+                </TextBlock>
+                <TextBlock
+                    FontSize="24"
+                    TextAlignment="Center">
+                    fietser
+                </TextBlock>
+            </StackPanel>
+        </Grid>
+        <StackPanel
+            x:Name="spChange"
+            Margin="20,95,20,20" Grid.ColumnSpan="2">
+        </StackPanel>
+    </Grid>
+</Window>
